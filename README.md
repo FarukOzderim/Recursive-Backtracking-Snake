@@ -1,4 +1,4 @@
 # Recursive-Backtracking-Snake
 
-https://user-images.githubusercontent.com/44067394/200582097-a84681de-d72b-4661-aa8b-4c430abf5c78.mp4
+https://user-images.githubusercontent.com/44067394/200582359-9ba46282-a320-4ba2-b613-7da71f156f9b.mp4
 
